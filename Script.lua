@@ -126,7 +126,7 @@ local function createScriptGUI()
         ["Doors Floor2 By iCherryKardes"] = "https://raw.githubusercontent.com/iCherryKardes/Doors/main/Floor%202%20Mod",
         ["insane mode v5"] = "https://raw.githubusercontent.com/thefigureblack/doors/main/insanemodev5.lua",
         ["Troll mode"] = "https://glot.io/snippets/gotfeffesc/raw/main.lua"，
-        ["Troll mode"] = "https://raw.githubusercontent.com/Drop56796/Insanity-Fog-Mode-v1.4/Insanity-Fog-Mode-v1.4-Script/Insanity%20Fog%20Mode%20v1.4%20Script.lua"
+        ["Insanity Fog Mode v1.4"] = "https://raw.githubusercontent.com/Drop56796/Insanity-Fog-Mode-v1.4/Insanity-Fog-Mode-v1.4-Script/Insanity%20Fog%20Mode%20v1.4%20Script.lua"
     }
 
     for text, url in pairs(SECOND_PAGE_SCRIPT_URLS) do
