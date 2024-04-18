@@ -125,7 +125,8 @@ local function createScriptGUI()
         ["恐惧模式(在23年愚人节用)By oof"] = "https://raw.githubusercontent.com/cool59572/freestuff/main/Fear_mode_multiplayer.lua",
         ["Doors Floor2 By iCherryKardes"] = "https://raw.githubusercontent.com/iCherryKardes/Doors/main/Floor%202%20Mod",
         ["insane mode v5"] = "https://raw.githubusercontent.com/thefigureblack/doors/main/insanemodev5.lua",
-        ["Troll mode"] = "https://glot.io/snippets/gotfeffesc/raw/main.lua"
+        ["Troll mode"] = "https://glot.io/snippets/gotfeffesc/raw/main.lua"，
+        ["Troll mode"] = "https://raw.githubusercontent.com/Drop56796/Insanity-Fog-Mode-v1.4/Insanity-Fog-Mode-v1.4-Script/Insanity%20Fog%20Mode%20v1.4%20Script.lua"
     }
 
     for text, url in pairs(SECOND_PAGE_SCRIPT_URLS) do
