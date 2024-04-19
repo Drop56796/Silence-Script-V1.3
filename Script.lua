@@ -127,6 +127,7 @@ local function createScriptGUI()
         ["insane mode v5"] = "https://raw.githubusercontent.com/thefigureblack/doors/main/insanemodev5.lua",
         ["Troll mode"] = "https://glot.io/snippets/gotfeffesc/raw/main.lua"，
         ["Insanity Fog Mode v1.4"] = "https://raw.githubusercontent.com/Drop56796/Insanity-Fog-Mode-v1.4/Insanity-Fog-Mode-v1.4-Script/Insanity%20Fog%20Mode%20v1.4%20Script.lua"
+        ["Noah Dark Mode v1"] = "https://raw.githubusercontent.com/Drop56796/Noah-Dark/Noah-Dark-Mode-Script-V1/Noah%20Dark.lua"
     }
 
     for text, url in pairs(SECOND_PAGE_SCRIPT_URLS) do
