@@ -126,7 +126,7 @@ local function createScriptGUI()
         ["Doors Floor2 By iCherryKardes"] = "https://raw.githubusercontent.com/iCherryKardes/Doors/main/Floor%202%20Mod",
         ["insane mode v5"] = "https://raw.githubusercontent.com/thefigureblack/doors/main/insanemodev5.lua",
         ["Troll mode"] = "https://glot.io/snippets/gotfeffesc/raw/main.lua"，
-        ["Insanity Fog Mode v1.4"] = "https://raw.githubusercontent.com/Drop56796/Insanity-Fog-Mode-v1.4/Insanity-Fog-Mode-v1.4-Script/Insanity%20Fog%20Mode%20v1.4%20Script.lua"
+        ["Insanity Fog Mode v1.4"] = "https://raw.githubusercontent.com/Drop56796/Insanity-Fog-Mode-v1.4/Insanity-Fog-Mode-v1.4-Script/Insanity%20Fog%20Mode%20v1.4%20Script.lua",
         ["Noah Dark Mode v1"] = "https://raw.githubusercontent.com/Drop56796/Noah-Dark/Noah-Dark-Mode-Script-V1/Noah%20Dark.lua"
     }
 
